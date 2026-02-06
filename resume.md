@@ -1,11 +1,12 @@
-# Gigi ALbers
+# Gigi Albers
+
 Junior-standing Geophysics & Geophysical Engineering Major | Honor Roll at the **Colorado School of Mines**
-![Picture of Me](Screenshot 2026-02-06 at 10.36.19 AM)
+![Picture of Me](screenshot.png)
 Based in Golden, CO
 
 ## Contact and Github
-gigi_albers@mines.edu
-[My Github](https://github.com/gigi-albers06)
+- gigi_albers@mines.edu
+- [My Github](https://github.com/gigi-albers06)
 
 ## Skills
 - Teamwork & Collaboration
